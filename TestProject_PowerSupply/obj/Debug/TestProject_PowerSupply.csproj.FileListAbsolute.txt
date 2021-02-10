@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\TestProjects\TestProject_PowerSupply\bin\Debug\TestProject_PowerSupply.dll
+C:\Users\georg\source\repos\TestProjects\TestProject_PowerSupply\bin\Debug\TestProject_PowerSupply.pdb
+C:\Users\georg\source\repos\TestProjects\TestProject_PowerSupply\obj\Debug\TestProject_PowerSupply.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\TestProjects\TestProject_PowerSupply\obj\Debug\TestProject_PowerSupply.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\TestProjects\TestProject_PowerSupply\obj\Debug\TestProject_PowerSupply.dll
+C:\Users\georg\source\repos\TestProjects\TestProject_PowerSupply\obj\Debug\TestProject_PowerSupply.pdb
+D:\powerSupply\TestProject_PowerSupply\bin\Debug\TestProject_PowerSupply.dll
+D:\powerSupply\TestProject_PowerSupply\bin\Debug\TestProject_PowerSupply.pdb
+D:\powerSupply\TestProject_PowerSupply\obj\Debug\TestProject_PowerSupply.csprojAssemblyReference.cache
+D:\powerSupply\TestProject_PowerSupply\obj\Debug\TestProject_PowerSupply.csproj.CoreCompileInputs.cache
+D:\powerSupply\TestProject_PowerSupply\obj\Debug\TestProject_PowerSupply.dll
+D:\powerSupply\TestProject_PowerSupply\obj\Debug\TestProject_PowerSupply.pdb

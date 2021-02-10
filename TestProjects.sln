@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject_PowerSupply", "TestProject_PowerSupply\TestProject_PowerSupply.csproj", "{4E78136E-A22B-4240-99FC-19C26AD5E1CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerSupplyControl", "PowerSupplyControl\PowerSupplyControl.csproj", "{205608B5-2701-4B53-ACDB-26AA94980EE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E78136E-A22B-4240-99FC-19C26AD5E1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E78136E-A22B-4240-99FC-19C26AD5E1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E78136E-A22B-4240-99FC-19C26AD5E1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E78136E-A22B-4240-99FC-19C26AD5E1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{205608B5-2701-4B53-ACDB-26AA94980EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205608B5-2701-4B53-ACDB-26AA94980EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205608B5-2701-4B53-ACDB-26AA94980EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205608B5-2701-4B53-ACDB-26AA94980EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F70F97B5-ABBF-4FF4-A9DF-95E91879D02C}
+	EndGlobalSection
+EndGlobal
